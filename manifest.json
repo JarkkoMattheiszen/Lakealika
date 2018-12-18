@@ -1,0 +1,32 @@
+{
+   "description": "A Chrome theme to match the Oceanica VSC theme",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDLyIB0gI1Ussw8W3kGhHL0vhduRm0sg7Wt341mOmunw0MxVYgtSZlDcd+MWjyIssNonccpCpa1EmzSzNmgd05Tlg/PYRVwHXLML7NtCR4y/13OMH3Z9CDs+b/fFY5Q12fTwi0rejJpKg6WIH1M/bKJgkE8QOM0G9aWwZMClriVUQIDAQAB",
+   "manifest_version": 2,
+   "name": "Lakealika",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 221, 221, 221 ],
+         "button_background": [ 27, 43, 52, 0.9 ],
+         "frame": [ 27, 43, 52 ],
+         "ntp_background": [ 27, 43, 52 ],
+         "ntp_link": [ 27, 43, 52 ],
+         "ntp_text": [ 27, 43, 52 ],
+         "tab_background_text": [ 204, 204, 204 ],
+         "tab_text": [ 221, 221, 221 ],
+         "toolbar": [ 27, 43, 52 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0.56, 0.32, 0.15 ]
+      }
+   },
+   "version": "1.0"
+}
